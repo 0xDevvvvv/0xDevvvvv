@@ -2,7 +2,7 @@
 
 I’m a developer who focuses on building practical software. I am learning to build systems that solve real problems efficiently.
 
-- ⚙️ I work with: `.go`, `.ts`, `.js`, `.sql`, `.html`, `.css`, `.json`, `.md`
+- ⚙️ I work with: `.go`, `.ts`, `.js`, `.sql`, `.html`, `.css`, `.json`, `.md` ,`.py`
 - 💬 Feel free to reach out if you want to discuss **backend systems** or anything that is **interesting**.
 
 ### Currently Learning
